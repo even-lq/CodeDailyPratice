@@ -13,4 +13,4 @@ Everyday algorithms pratice from leetcode or others
 因为 nums[0] + nums[1] = 2 + 7 = 9
 所以返回 [0, 1]
 
-时间复杂度O(n)
+时间复杂度O(n²) => O(n)
